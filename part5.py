@@ -1,4 +1,4 @@
-# Multi layered neural network model 
+# Multi layered neural network model with no activation function
 
 import numpy as np
 
